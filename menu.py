@@ -264,7 +264,7 @@ def main():
         theme=pygame_menu.themes.THEME_DARK,
         title='O autorze',
     )
-    author_menu.add_label('''Autorem tego projektu jest skromny student matematyki stosowanej. Zafascynował się on programowaniem i gdyby nie lenistwo oraz brak organizacji byłby całkiem niezłym programistą. Dobrze, że się chociaż czasami stara...
+    author_menu.add_label('''Autorem tego projektu jest student. Zafascynował się on programowaniem.
     Cyprian Pełka''',
                             max_char=50,
                             align=pygame_menu.locals.ALIGN_LEFT,
